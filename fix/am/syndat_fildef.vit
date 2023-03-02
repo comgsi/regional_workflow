@@ -1,0 +1,18 @@
+ WCOSS     |unit# form(f,u) status(o,n,k,s) access(d,q,a) filename
+ 5 f o q vitchk.inp
+14 f o q stmnames
+20 f k q prelim
+21 f k q sthisto
+22 f k q sthista
+25 f o q akavit
+26 f k q akanew
+27 f o q stmcat
+28 f k q stmcat.scr
+30 f k q nhc
+31 f k q fnoc
+32 f k q gtsbtab
+33 f k q gtsbufr
+34 f k q human.btab
+54 f k q dateck
+60 f k q current
+61 f k s lthistry
