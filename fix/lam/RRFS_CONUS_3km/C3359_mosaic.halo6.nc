@@ -1,1 +1,0 @@
-../../.agent/lam/RRFS_CONUS_3km_C3359/C3359_mosaic.halo6.nc

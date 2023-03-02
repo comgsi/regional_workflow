@@ -1,1 +1,0 @@
-../../.agent/lam/RRFS_CONUS_3km_C3359/C3359.vegetation_greenness.tile7.halo0.nc
